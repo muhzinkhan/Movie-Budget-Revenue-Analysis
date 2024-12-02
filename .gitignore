@@ -3,13 +3,18 @@
 # For example we ignore the hidden files from Pycharm and VS Code.
 .idea/
 .vscode
-backup/
 
 ### Also any macOS specific files
 .DS_Store
 .AppleDouble
 .LSOverride
 Icon
+
+# Gitignore by muhzinkhan
+backup/
+.archive/
+.NOT-COMPLETED
+
 # and thumbnails
 ._*
 
